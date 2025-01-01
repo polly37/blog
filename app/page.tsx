@@ -6,8 +6,8 @@ import { siteConfig } from "@/config/site";
 import { motion } from "framer-motion";
 
 const highlightWords = {
-  "800 万": true,
-  "百万销售额": true,
+  "500 万+ ": true,
+  "百万销售": true,
   "3000+": true,
   "期待与你链接......": true
 };
@@ -57,8 +57,8 @@ export default function Home() {
   
   const lines = [
     "Hi，我是鸣姐，一个 7 年从业经验的新媒体运营",
-    "曾经在大厂运营过 800 万粉丝的商业媒体矩阵",
-    "也曾从 0 到 1 做短视频矩阵，拿下百万销售额",
+    "曾经在大厂运营过 500 万+ 粉丝的商业媒体矩阵",
+    "也曾从 0 到 1 做短视频矩阵，直播+短视频策略达成百万销售",
     "我的 AI 自媒体，分享实战经验，收获 3000+粉丝",
     "借助 AI 做了个人网站，分享关于AI和运营的更多经验",
     "期待与你链接......"
