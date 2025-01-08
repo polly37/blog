@@ -18,7 +18,6 @@ interface GroupedArticles {
 const ArticlesPage = () => {
 
   const articles: Article[] = [
-    { title: "火爆的deepseek，1/10的价格追赶 ChatGPT 的性能｜AI 产品测评", publishDate: "2025-01-08", articleUrl: "https://mp.weixin.qq.com/s/N6984t9r3f5Bazr6e-eKhA" },
     { title: "国内头部10家大模型产品，怎么选（用户体验分享）", publishDate: "2024-07-04", articleUrl: "https://mp.weixin.qq.com/s/N6984t9r3f5Bazr6e-eKhA" },
     { title: "5个头部AI剪辑工具怎么选，一键成大片", publishDate: "2024-07-17", articleUrl: "https://mp.weixin.qq.com/s/r_PbZQKsCa5tSSBt78oKzg" },
     { title: "泪目的拥抱亲人AI视频怎么做？详细教程分享", publishDate: "2024-07-23", articleUrl: "https://mp.weixin.qq.com/s/WV_31jbjb10IMqYzL1T9Pw" },
